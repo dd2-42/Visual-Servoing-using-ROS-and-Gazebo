@@ -1,5 +1,4 @@
 # Visual-Servoing-using-ROS-and-Gazebo
-
 This is a quick setup guide and introduction to Robot Operating System (ROS) and Gazebo. Using these tools visual servoing has been demenstrated with marker identities on bots.
 
 ## Introduction
